@@ -1,0 +1,8 @@
+# ENVS
+
+.venv/
+
+
+.env
+
+tmp/
